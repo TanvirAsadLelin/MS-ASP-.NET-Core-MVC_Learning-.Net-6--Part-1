@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nMOLFYsOwIpyRLnVvyQRw4xNqpmGcZEI7F0xsQIzbtY=",
+  "Hash": "XeV4ouDeDlUyPMBUNUHfy2/fzMw5y9fJ/lO8Ag1OhHs=",
   "Source": "LearnASP.NETCoreMVC_DotNet_6_WebApp",
   "BasePath": "_content/LearnASP.NETCoreMVC_DotNet_6_WebApp",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\My GitHub\\MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1\\LearnASP.NETCoreMVC_DotNet_6\\LearnASP.NETCoreMVC_DotNet_6_WebApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\LearnASP.NETCoreMVC_DotNet_6_WebApp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\My GitHub\\MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1\\LearnASP.NETCoreMVC_DotNet_6\\LearnASP.NETCoreMVC_DotNet_6_WebApp\\wwwroot\\css\\BootsWatchTheme.css",
+      "SourceId": "LearnASP.NETCoreMVC_DotNet_6_WebApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My GitHub\\MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1\\LearnASP.NETCoreMVC_DotNet_6\\LearnASP.NETCoreMVC_DotNet_6_WebApp\\wwwroot\\",
+      "BasePath": "_content/LearnASP.NETCoreMVC_DotNet_6_WebApp",
+      "RelativePath": "css/BootsWatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootsWatchTheme.css"
     },
     {
       "Identity": "D:\\My GitHub\\MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1\\LearnASP.NETCoreMVC_DotNet_6\\LearnASP.NETCoreMVC_DotNet_6_WebApp\\wwwroot\\css\\site.css",

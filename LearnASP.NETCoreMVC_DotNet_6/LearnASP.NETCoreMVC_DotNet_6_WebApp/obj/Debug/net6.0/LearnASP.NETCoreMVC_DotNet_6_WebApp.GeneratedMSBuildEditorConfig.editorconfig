@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\My GitHub\MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1\LearnASP.NETCoreMVC_DotNet_6\LearnASP.NETCoreMVC_DotNet_6_WebApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/My GitHub/MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1/LearnASP.NETCoreMVC_DotNet_6/LearnASP.NETCoreMVC_DotNet_6_WebApp/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/My GitHub/MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1/LearnASP.NETCoreMVC_DotNet_6/LearnASP.NETCoreMVC_DotNet_6_WebApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

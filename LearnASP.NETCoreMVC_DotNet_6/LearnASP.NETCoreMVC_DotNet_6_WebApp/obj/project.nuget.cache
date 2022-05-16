@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Ojkgldv23wjUjpgpnTtkpDX0RZlrEdmnKa5vmoSYZjF6evPFJ9MT8a2E+5D3TNW7FRWy+MSpPerjeNTbXVFqag==",
+  "dgSpecHash": "4cpgzkvX+1XxT2ZDZh1EcQRikyufbxPT2rcL7f8YjdSpsl+o0TU82hJRIUSFXoM4VfB4UCPx3GMur55LIga5mA==",
   "success": true,
   "projectFilePath": "D:\\My GitHub\\MS-ASP .NET Core MVC_Learning (.Net 6)-Part 1\\LearnASP.NETCoreMVC_DotNet_6\\LearnASP.NETCoreMVC_DotNet_6_WebApp\\LearnASP.NETCoreMVC_DotNet_6_WebApp.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Lelin_C#\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.5\\microsoft.aspnetcore.mvc.razor.extensions.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\6.0.5\\microsoft.aspnetcore.mvc.razor.runtimecompilation.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.5\\microsoft.aspnetcore.razor.language.6.0.5.nupkg.sha512",
@@ -17,8 +18,10 @@
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.5\\microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
+    "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.5\\microsoft.entityframeworkcore.design.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.5\\microsoft.entityframeworkcore.relational.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.5\\microsoft.entityframeworkcore.sqlserver.6.0.5.nupkg.sha512",
+    "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.5\\microsoft.entityframeworkcore.tools.6.0.5.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
     "C:\\Users\\Lelin_C#\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",

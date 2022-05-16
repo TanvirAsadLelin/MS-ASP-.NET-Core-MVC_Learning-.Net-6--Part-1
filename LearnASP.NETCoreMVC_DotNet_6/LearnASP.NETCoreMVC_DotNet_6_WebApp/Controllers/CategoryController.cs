@@ -20,5 +20,12 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
             IEnumerable<Category> objCategoryList = _Db.Categories;
              return View(objCategoryList);
         }
+
+        //Get method
+        public IActionResult Create()
+        {
+         
+            return View();
+        }
     }
 }

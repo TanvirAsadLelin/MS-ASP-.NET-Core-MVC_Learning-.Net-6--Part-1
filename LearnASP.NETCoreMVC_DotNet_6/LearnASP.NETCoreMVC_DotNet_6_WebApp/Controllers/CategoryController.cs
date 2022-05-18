@@ -42,6 +42,7 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
             {
                 _Db.Categories.Add(obj);
                 _Db.SaveChanges();
+                TempData["success"] = "Category Created Successfully";
 
                 return RedirectToAction("Index");
             }
@@ -82,7 +83,7 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
             {
                 _Db.Categories.Update(obj);
                 _Db.SaveChanges();
-
+                TempData["success"] = "Category Updated Successfully";
                 return RedirectToAction("Index");
             }
             return View(obj);
@@ -127,8 +128,8 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
 
             _Db.Categories.Remove(obj);
                 _Db.SaveChanges();
-
-                return RedirectToAction("Index");
+            TempData["success"] = "Category Deleted Successfully";
+            return RedirectToAction("Index");
         }
     }
 }

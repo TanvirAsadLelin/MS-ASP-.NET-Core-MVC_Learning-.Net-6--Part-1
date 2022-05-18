@@ -34,10 +34,14 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
         [AutoValidateAntiforgeryToken]
         public IActionResult Create(Category obj)
         {   
-            _Db.Categories.Add(obj);
-            _Db.SaveChanges();
+            if (ModelState.IsValid)
+            {
+                _Db.Categories.Add(obj);
+                _Db.SaveChanges();
 
-            return RedirectToAction("Index");
+                return RedirectToAction("Index");
+            }
+         return View(obj);
         }
     }
 }

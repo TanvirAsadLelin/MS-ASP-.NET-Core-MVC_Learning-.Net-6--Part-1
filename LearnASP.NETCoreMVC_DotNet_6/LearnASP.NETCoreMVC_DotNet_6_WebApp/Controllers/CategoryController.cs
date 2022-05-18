@@ -22,10 +22,22 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
         }
 
         //Get method
+
         public IActionResult Create()
         {
          
             return View();
+        }
+
+        //Post
+        [HttpPost]
+        [AutoValidateAntiforgeryToken]
+        public IActionResult Create(Category obj)
+        {   
+            _Db.Categories.Add(obj);
+            _Db.SaveChanges();
+
+            return RedirectToAction("Index");
         }
     }
 }

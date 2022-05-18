@@ -7,6 +7,10 @@
             <hr />
 
         </div>
+
+        <div asp-validation-summary="All">
+
+        </div>
         <div class="mb-3">
 
             <label asp-for="Name"></label>
@@ -30,4 +34,11 @@
         </a>
     </div>
 </form>
+@section Scripts{
+    @{
+        <partial name="_ValidationScriptsPartial"></partial>
+
+    }
+}
+
 

@@ -34,6 +34,10 @@ namespace LearnASP.NETCoreMVC_DotNet_6_WebApp.Controllers
         [AutoValidateAntiforgeryToken]
         public IActionResult Create(Category obj)
         {   
+            if(obj.Name == obj.DisplayOrder.ToString())
+            {
+                ModelState.AddModelError("CustomError", "The Display order is not exactly same as name!");
+            }
             if (ModelState.IsValid)
             {
                 _Db.Categories.Add(obj);
